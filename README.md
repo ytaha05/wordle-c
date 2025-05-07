@@ -4,12 +4,6 @@ A simple C implementation of Wordle. Currently bare-bones, but I plan on making 
 
 ---
 
-## Features
-- **Wordle Game Logic**: A faithful recreation of Wordle with colored feedback.
-- **Color Feedback**: Uses terminal color codes to highlight correct, incorrect, and misplaced letters.
-- **Unix Compatibility**: Playable on Unix-based systems (e.g., Linux, macOS) with a terminal.
-
----
 
 ## Requirements
 
@@ -25,7 +19,7 @@ A simple C implementation of Wordle. Currently bare-bones, but I plan on making 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/wordle-c.git
+   git clone https://github.com/ytaha05/wordle-c.git
    cd wordle-c
 
 2. Compile the C code:
