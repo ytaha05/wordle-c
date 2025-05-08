@@ -16,7 +16,7 @@ A simple C implementation of Wordle. Currently bare-bones, but I plan on making 
 
 ## Installation
 
-1. Clone the repository to your local machine:
+1. Clone the repository to your local machine (or just download the files):
 
    ```bash
    git clone https://github.com/ytaha05/wordle-c.git
