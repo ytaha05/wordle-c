@@ -33,7 +33,7 @@ A simple C implementation of Wordle. Currently bare-bones, but I plan on making 
    ./wordle
 
 ## Future plans
-  - Add difficulty settings (e.g., allow for "Hardle" with longer words).
+  - Add difficulty settings (e.g., allow for longer words to be used).
   - Implement score tracking and a timer.
   - Allow user to customize word lists or load custom words.
   - Add more comments to my code.
